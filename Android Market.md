@@ -99,7 +99,3 @@ Some of the calculated measures include:
 * Ratings are generally **positive**, but many reviews are **highly subjective**.
 * Sentiment scatter plots show clear clustering of **positive vs negative categories**.
 * Heatmaps reveal which Genre receive the **most positive feedback**.
-
----
-
-👉 Do you want me to make this README **portfolio-ready with placeholders for screenshots** (e.g., “![Dashboard Screenshot 1](screenshot1.png)”), so you can just add your dashboard images later?
